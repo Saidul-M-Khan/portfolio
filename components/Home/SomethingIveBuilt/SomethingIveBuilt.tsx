@@ -366,7 +366,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Zod</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/hktitof/haircut" />
+                <GithubIcon link="https://github.com/Saidul-M-Khan/University-Management-System" />
                 {/* <a href="#" target={"_blank"} rel="noreferrer">
                   <ExternalLink url={""} router={router} />
                 </a> */}
@@ -432,7 +432,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/hktitof/CallCenter" />
+                <GithubIcon link="https://github.com/Saidul-M-Khan/Zeo-Inventory" />
               </div>
             </div>
           </div>
