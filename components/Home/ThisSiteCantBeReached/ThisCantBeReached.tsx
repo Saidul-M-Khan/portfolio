@@ -191,7 +191,7 @@ export default function ThisCantBeReached() {
             be reached
           </span>
           <span className="text-gray-500 text-md">
-            <span className="font-bold">www.khansaab.com </span>
+            <span className="font-bold">https://portfolio-saidul-mursalin-khans-projects.vercel.app </span>
             unexpectedly{" "}
             {ShowText ? (
               <motion.span
